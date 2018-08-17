@@ -28,6 +28,16 @@ int candyBarShow(){
 }
 
 int runTest(){
-    int i=0, n=3;
-    for i
+    int i, n=3;
+    array<double, 3> score;
+    double average = 0;
+    for (i=0; i<n; i++) {
+        cin >> score[i];
+        average += score[i];
+    }
+    average = average/3;
+
+    cout<<"You got average score:" <<average<<"in totally "<<n<<" times test."<<endl;
+
+    return 0;
 }

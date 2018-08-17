@@ -1,6 +1,7 @@
 #include "4_compositeType.h"
 
 int main() {
-    candyBarShow();
+//    candyBarShow();
+    runTest();
     return 0;
 }
