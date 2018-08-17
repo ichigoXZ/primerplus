@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(primerplus)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(primerplus main.cpp 4_compositeType.cpp 4_compositeType.h)
