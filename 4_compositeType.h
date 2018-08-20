@@ -7,12 +7,8 @@
 
 #endif //PRIMERPLUS_FUNC_H
 
-#include <iostream>
-#include <string>
-#include <array>
-#include <vector>
+#include "utils.h"
 
-using namespace std;
 
 int candyBarShow();
 int runTest();

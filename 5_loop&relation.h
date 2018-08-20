@@ -1,7 +1,3 @@
-//
-// Created by atath on 2018/8/18.
-//
-
 #ifndef PRIMERPLUS_5_LOOP_RELATION_H
 #define PRIMERPLUS_5_LOOP_RELATION_H
 

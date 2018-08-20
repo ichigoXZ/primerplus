@@ -6,12 +6,6 @@ struct CandyBar{
     int Calori;
 };
 
-template <typename T>
-void Show(T &a)
-{
-    cout << a <<endl;
-}
-
 int candyBarShow(){
     CandyBar* snack = new CandyBar[3];
 
