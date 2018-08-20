@@ -1,4 +1,9 @@
-#include "6_branch&logicOp.h"
+#include "utils.h"
+
+/* cctype
+ * 处理cin错误 cin.clear()
+ * 简单文件输入/输出 fstream ofstream/ifstream
+ * 浮点固定输出：fixed */
 
 struct donation{
     string name;

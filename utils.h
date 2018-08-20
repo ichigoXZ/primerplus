@@ -7,6 +7,9 @@
 #include <string>
 #include <array>
 #include <vector>
+#include <cstring>
+#include <fstream>
+#include <cctype>
 
 using namespace std;
 
@@ -15,3 +18,4 @@ void Show(T &a)
 {
     cout << a <<endl;
 }
+
