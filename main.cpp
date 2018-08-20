@@ -9,7 +9,7 @@ int main() {
 //    CleoDaphne();
 //    carInfo();
 //    checkDone();
-    starLine();
+//    starLine();
 
     /* 6 分支语句和逻辑运算符 */
 //    upperLower_1();
@@ -19,5 +19,5 @@ int main() {
 //    beginVowel_7();
 
     /* 7 函数——C++的编程模块 */
-    return 0;
+    cal_10();
 }

@@ -16,3 +16,5 @@ void tax_5();
 void readFile_8();
 void readFileLine_9();
 void beginVowel_7();
+
+void cal_10();
