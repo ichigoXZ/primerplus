@@ -10,6 +10,7 @@
 #include <cstring>
 #include <fstream>
 #include <cctype>
+#include <typeinfo>
 
 using namespace std;
 

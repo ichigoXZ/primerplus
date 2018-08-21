@@ -19,5 +19,8 @@ int main() {
 //    beginVowel_7();
 
     /* 7 函数——C++的编程模块 */
-    cal_10();
+//    cal_10();
+
+    /* 8 函数探幽 */
+    maxnTemplate();
 }

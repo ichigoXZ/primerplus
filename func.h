@@ -18,3 +18,4 @@ void readFileLine_9();
 void beginVowel_7();
 
 void cal_10();
+void maxnTemplate();
