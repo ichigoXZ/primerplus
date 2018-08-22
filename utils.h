@@ -1,8 +1,6 @@
 #ifndef PRIMERPLUS_UTILS_H
 #define PRIMERPLUS_UTILS_H
 
-#endif //PRIMERPLUS_UTILS_H
-
 #include <iostream>
 #include <string>
 #include <array>
@@ -20,3 +18,4 @@ void Show(T &a)
     cout << a <<endl;
 }
 
+#endif //PRIMERPLUS_UTILS_H

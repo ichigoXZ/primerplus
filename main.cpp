@@ -22,5 +22,9 @@ int main() {
 //    cal_10();
 
     /* 8 函数探幽 */
-    maxnTemplate();
+//    maxnTemplate();
+
+    /* 9 内存模型和名称空间 */
+//    golf_1();
+    newTest();
 }

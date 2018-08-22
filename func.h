@@ -1,8 +1,6 @@
 #ifndef PRIMERPLUS_FUNC_H
 #define PRIMERPLUS_FUNC_H
 
-#endif //PRIMERPLUS_FUNC_H
-
 int candyBarShow();
 int runTest();
 
@@ -19,3 +17,8 @@ void beginVowel_7();
 
 void cal_10();
 void maxnTemplate();
+
+void golf_1();
+void newTest();
+
+#endif //PRIMERPLUS_FUNC_H
