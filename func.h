@@ -21,4 +21,7 @@ void maxnTemplate();
 void golf_1();
 void newTest();
 
+void move_6();
+void list_8();
+
 #endif //PRIMERPLUS_FUNC_H

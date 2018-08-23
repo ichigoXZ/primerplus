@@ -26,5 +26,9 @@ int main() {
 
     /* 9 内存模型和名称空间 */
 //    golf_1();
-    newTest();
+//    newTest();
+
+    /* 10 对象和类 */
+//    move_6();
+    list_8();
 }
