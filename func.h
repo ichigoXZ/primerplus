@@ -24,4 +24,11 @@ void newTest();
 void move_6();
 void list_8();
 
+void randwalk_1();
+void randwalk_3();
+void useTime_4();
+void useStonewt_5();
+void useStonewt_6();
+void useComplex_7();
+
 #endif //PRIMERPLUS_FUNC_H

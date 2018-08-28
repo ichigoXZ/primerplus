@@ -3,4 +3,4 @@ project(primerplus)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(primerplus main.cpp 4_compositeType.cpp 5_loop&relation.cpp 6_branch&logicOp.cpp utils.h 7_function.cpp func.h 8_functionAgain.cpp 9_memModel&namespace.cpp golf.h 10_o&class.cpp)
+add_executable(primerplus main.cpp 4_compositeType.cpp 5_loop&relation.cpp 6_branch&logicOp.cpp utils.h 7_function.cpp func.h 8_functionAgain.cpp 9_memModel&namespace.cpp golf.h 10_o&class.cpp 11_useClass/randwalk_1.cpp 11_useClass/vect.h 11_useClass/vect.cpp 11_useClass/vect_2.cpp 11_useClass/vect_2.h 11_useClass/randwalk_3.cpp 11_useClass/mytime_4.cpp 11_useClass/mytime_4.h 11_useClass/usetime_4.cpp 11_useClass/stonewt_5&6.cpp 11_useClass/stonewt_5&6.h 11_useClass/useStonewt.cpp 11_useClass/complex0.cpp 11_useClass/complex0.h 11_useClass/useComplex_7.cpp)

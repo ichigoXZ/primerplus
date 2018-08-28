@@ -30,5 +30,14 @@ int main() {
 
     /* 10 对象和类 */
 //    move_6();
-    list_8();
+//    list_8();
+
+    /* 11 使用类 */
+//    randwalk_1();
+//    randwalk_3();
+//    useTime_4();
+//    useStonewt_5();
+//    useStonewt_6();
+    useComplex_7();
 }
+
