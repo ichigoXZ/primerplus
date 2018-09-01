@@ -1,4 +1,6 @@
 #include "func.h"
+#include <iostream>
+using std::cin;
 
 int main() {
     /* 4 复合类型 */
@@ -38,6 +40,16 @@ int main() {
 //    useTime_4();
 //    useStonewt_5();
 //    useStonewt_6();
-    useComplex_7();
+//    useComplex_7();
+
+    /* 12 类和动态内存分配 */
+//    cow_1();
+//    testString_2();
+//    testStack_4();
+//    bank_5();
+    bank_6();
+//    bank();
 }
+
+
 

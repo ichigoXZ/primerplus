@@ -31,4 +31,11 @@ void useStonewt_5();
 void useStonewt_6();
 void useComplex_7();
 
+void cow_1();
+void testString_2();
+void testStack_4();
+void bank();
+void bank_5();
+void bank_6();
+
 #endif //PRIMERPLUS_FUNC_H
