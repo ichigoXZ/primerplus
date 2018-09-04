@@ -47,8 +47,10 @@ int main() {
 //    testString_2();
 //    testStack_4();
 //    bank_5();
-    bank_6();
+//    bank_6();
 //    bank();
+//    useCd();    // switch mode in useCdd.cpp
+    testPort();
 }
 
 

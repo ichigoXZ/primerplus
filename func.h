@@ -38,4 +38,7 @@ void bank();
 void bank_5();
 void bank_6();
 
+void useCd();
+void testPort();
+
 #endif //PRIMERPLUS_FUNC_H
