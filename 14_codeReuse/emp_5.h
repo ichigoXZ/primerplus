@@ -77,15 +77,16 @@ public:
     highfink() : manager(), fink() {};
     highfink(const string & fn, const string & ln,
              const string & j, const string & rpo,
-             int ico):
+             int ico): abstr_emp(fn, ln, j),
              manager(fn, ln,j, ico), fink(fn, ln,j,rpo) {};
     highfink(const abstr_emp & e, const std::string rpo, int ico):
-             manager(e, ico), fink(e, rpo) {};
-    highfink(const fink & f, int ico):
+             abstr_emp(e), manager(e, ico), fink(e, rpo) {};
+    highfink(const fink & f, int ico): abstr_emp((abstr_emp &) f),
              manager((abstr_emp &)f, ico),fink(f) {};
     highfink(const manager & m, const std::string rpo):
+             abstr_emp((abstr_emp &) m),
              manager(m), fink((abstr_emp &)m,rpo) {};
-    highfink(const highfink & h):
+    highfink(const highfink & h): abstr_emp((abstr_emp&)h),
              manager((manager &) h), fink((fink &) h) {};
     virtual void ShowAll() const;
     virtual void SetAll();
