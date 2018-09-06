@@ -49,8 +49,16 @@ int main() {
 //    bank_5();
 //    bank_6();
 //    bank();
+
+    /* 13 类继承 */
 //    useCd();    // switch mode in useCdd.cpp
-    testPort();
+//    testPort();
+
+    /* 14 C++中的代码重用 */
+//    testWine();     //switch include in testWine.cpp
+//    testPerson_4();
+//    workerTest();
+    testEmp_5();
 }
 
 

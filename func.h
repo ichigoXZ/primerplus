@@ -41,4 +41,9 @@ void bank_6();
 void useCd();
 void testPort();
 
+void testWine();
+void testPerson_4();
+void workerTest();
+void testEmp_5();
+
 #endif //PRIMERPLUS_FUNC_H
