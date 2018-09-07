@@ -58,8 +58,15 @@ int main() {
 //    testWine();     //switch include in testWine.cpp
 //    testPerson_4();
 //    workerTest();
-    testEmp_5();
+//    testEmp_5();
+
+    /* 友元、异常和其他 */
+//    testTv_1();
+//    errTest_2();
+//    errTest_3();
+    catch_4();
 }
+
 
 
 

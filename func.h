@@ -46,4 +46,9 @@ void testPerson_4();
 void workerTest();
 void testEmp_5();
 
+void testTv_1();
+void errTest_2();
+void errTest_3();
+void catch_4();
+
 #endif //PRIMERPLUS_FUNC_H
