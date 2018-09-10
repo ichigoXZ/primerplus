@@ -60,11 +60,21 @@ int main() {
 //    workerTest();
 //    testEmp_5();
 
-    /* 友元、异常和其他 */
+    /* 15 友元、异常和其他 */
 //    testTv_1();
 //    errTest_2();
 //    errTest_3();
-    catch_4();
+//    catch_4();
+
+    /* 16 string类和标准模板库 */
+//    testPalindrome_1();
+//    testPalindrome_2();
+//    testPalindrome_3();
+//    testSord_4();
+//    testSord_5();
+//    testLotto();
+//    nameList_8();
+    timeTest();
 }
 
 

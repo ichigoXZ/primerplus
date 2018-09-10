@@ -51,4 +51,13 @@ void errTest_2();
 void errTest_3();
 void catch_4();
 
+void testPalindrome_1();
+void testPalindrome_2();
+void testPalindrome_3();
+void testSord_4();
+void testSord_5();
+void testLotto();
+void nameList_8();
+void timeTest();
+
 #endif //PRIMERPLUS_FUNC_H
